@@ -1,3 +1,10 @@
 # Write your solution here
 
-if 
+Current_time = Time.now 
+if Time.now == even 
+  puts "Even!"
+else
+  puts "Odd!"
+  
+end
+
