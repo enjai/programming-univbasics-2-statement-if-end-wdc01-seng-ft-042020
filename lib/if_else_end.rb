@@ -1,7 +1,7 @@
 # Write your solution here
 
-Current_time = Time.now 
-if Time.now == even 
+current_time = Time.now 
+if current_time == even 
   puts "Even!"
 else
   puts "Odd!"
